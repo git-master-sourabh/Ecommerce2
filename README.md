@@ -1,1 +1,1 @@
-Ecommerce website using MERN stack
+A fully responsive and user-friendly ecommerce application using ReactJS,NodeJS,Express,MongoDB.
